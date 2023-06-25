@@ -1,6 +1,6 @@
 /*!
-  * vue-router v3.5.3
-  * (c) 2021 Evan You
+  * vue-router v3.5.4
+  * (c) 2022 Evan You
   * @license MIT
   */
 
@@ -10,14 +10,6 @@
  * Released under the MIT License.
  */
 
-
-/*!
- * BootstrapVue Icons, generated from Bootstrap Icons 1.2.2
- *
- * @link https://icons.getbootstrap.com/
- * @license MIT
- * https://github.com/twbs/icons/blob/master/LICENSE.md
- */
 
 /*!
  * vue-client-only v0.0.0-semantic-release
